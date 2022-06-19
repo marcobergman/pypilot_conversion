@@ -1,6 +1,10 @@
 # pypilot_conversion
-Details of converting a ST1000/ST2000 tiller pilot into a PyPilot implementation
+Details of converting a ST1000/ST2000 tiller pilot into a PyPilot implementation.
 
-Work in progress
+Work in progress; details follow in due time.
+
+To be used in combination with pypilot_ray replacing pypilot_hat.
+
+https://github.com/marcobergman/pypilot_ray
 
 ![image](https://user-images.githubusercontent.com/17980560/174496239-032a153d-76ff-4484-ad62-f275af7a08e0.png)
