@@ -17,4 +17,6 @@ Build notes:
 
 First findings impression: https://www.youtube.com/watch?v=vbth_teGMJA
 
+![image](https://user-images.githubusercontent.com/17980560/175922177-2542d33a-8cc3-4cb2-8619-bbc711b0f9eb.png)
+
 Images from the building process: https://photos.app.goo.gl/vQ7VHdccvfHCTUkM7
